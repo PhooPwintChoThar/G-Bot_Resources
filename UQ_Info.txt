@@ -1,5 +1,4 @@
 THE UNIVERSITY OF QUEENSLAND (UQ)
-CRICOS Provider 00025B
 
 ==========================================
 ABOUT THE UNIVERSITY OF QUEENSLAND (UQ)
@@ -16,12 +15,21 @@ ABOUT THE UNIVERSITY OF QUEENSLAND (UQ)
 - Research Institutes: 8
 
 GLOBAL RANKINGS:
-- QS World University Ranking 2025: Top 50
-- U.S. News Best Global Universities 2023: #33
-- Performance Ranking of Scientific Papers 2022: #36
-- Academic Ranking of World Universities 2022: #40
-- Times Higher Education World University Ranking 2023: #47
-- U.S. News Best Global Universities 2023: #53
+- QS World University Ranking 2025: #40
+- U.S. News Best Global Universities 2023: #36
+- Performance Ranking of Scientific Papers 2022: #33
+- Academic Ranking of World Universities 2022: #47
+- Times Higher Education World University Ranking 2023: #53
+
+==========================================
+FACULTIES IN THE UNIVERSITY OF QUEENSLAND (UQ)
+==========================================
+- Business, Economics & Law (Accounting and finance, business, commerce, economics, international hotel & tourism management, law)
+- Engineering, Architecture and IT (Architecture, design, planning, computer science, engineering, information technology, regional & town planning)
+- Health and Behavioural Sciences (Audiology; dentistry; exercise, sport & nutrition, nursing and midwifery; occupational therapy; physiotherapy; pharmacy; psychology; speech pathology; social work; workplace health & safety)
+- Humanities and Social Sciences (Arts; criminology and criminal justice; Education; history; humanities; languages; media, communications and journalism; music; philosophy; politics, social sciences and international studies)
+- Medicine (Medicine, Public Health, Epidemiology)
+- Science (Animal and veterinary sciences, agriculture, biology, biomedical, biotechnology, earth and environmental sciences, mathematics and physics)
 
 ==========================================
 FACULTY OF ENGINEERING, ARCHITECTURE & IT (EAIT)
@@ -41,171 +49,284 @@ STAFF NUMBERS:
 ACADEMIC PROGRAMS - UNDERGRADUATE
 ==========================================
 
-ARCHITECTURE & DESIGN:
-- Bachelor of Architectural Design
+• Bachelor of Architectural Design
+• Bachelor of Design
+• Bachelor of Regional and Town Planning
+• Bachelor of Engineering (Hon)
+• Bachelor of Engineering (Hon)/Master of Engineering
+• Bachelor of Computer Science
+• Bachelor of Information Technology
+• Bachelor of Computer Science/Master of Data Science
+• Bachelor of Computer Science/Master of Cyber Security
+
+Full list of programs: eait.uq.edu.au/study
+
+==========================================
+Architecture and Design
+==========================================
+
+Architecture Programs
+- Bachelor of Architectural Design (Duration - 3 years)
+- Master of Architecture (Duration - 2 years)
+
+• Complete both BArchDes + MArch + professional practical hours (3,300 hours) to become a registered Architect in Australia
+• Learn from professional architects and leading researchers who have strong local industry links
+• Choose from unique design studio topics and electives – 12 studio topics in M Arch! (e.g. Aboriginal Architecture, Architecture in Australia)
+
+Requirement for MA:
+- BArchDes (GPA 4.5) from UQ or equivalent, or GPA 4.0 + 6 months full time relevant postgraduate work experience.
+- Non-UQ Bachelor degree requires GPA 5 of the final two design subjects.
+
+Design Programs
 - Bachelor of Design
   Majors: Anthropology, Buildings and Environments, Environment and Society, Information Environments, Innovation and Entrepreneurship, Media and Digital Cultures
-  *Popular as a dual program*
-- Bachelor of Regional and Town Planning
 
-ENGINEERING:
-- Bachelor of Engineering (Honours)
-  Specializations: Chemical, Civil, Electrical, Mechanical, Mechatronic, Software Engineering
-  Minors available in: Computing, Design, Data Science
-- Bachelor of Engineering (Honours)/Master of Engineering
-  *Flexible First Year structure*
+• Popular as a dual program
+• Choose one or two majors, combining multi-disciplinary elements of business, IT, engineering, architecture and the humanities.
+• Work on design projects across the entire program.
 
-COMPUTING:
-- Bachelor of Information Technology (3 years)
-  Majors: User Experience Design, Software Design, Software Information Systems
-- Bachelor of Computer Science (3 years)
-  Majors: Cyber Security, Data Science, Machine Learning, Programming Languages, Scientific Computing
-
-VERTICAL DUAL DEGREES (4 years):
-- Bachelor of Computer Science/Master of Data Science
-- Bachelor of Computer Science/Master of Cyber Security
-  *Only possible with Cyber Defence or Cryptography fields in Master component*
-
-==========================================
-ACADEMIC PROGRAMS - POSTGRADUATE
-==========================================
-
-ARCHITECTURE & PLANNING:
-- Master of Architecture
-  *Requires BArchDes (GPA 4.5) or equivalent*
-  *3,300 professional practical hours for registration*
 - Master of Urban Development and Design
-- Master of Urban and Regional Planning
-
-ENGINEERING:
-- Master of Engineering (Professional) - 2 years
-  *Pathway to Engineers Australia accreditation*
-  *450 hours of Engineering Professional Practice*
-- Master of Engineering Science - 1 year
-  *Technical expertise focus*
-- Master of Engineering Science (Management) - 2 years
-  *Management and leadership focus*
-
-COMPUTING & IT:
-- Master of Computer Science - 1.5 years
-- Master of Computer Science (Management) - 2 years
-  *Requires B.Computer Science or B.Software Engineering background*
-- Master of Data Science - 2 years
-  *Most comprehensive in Australia*
-  *Industry-based capstone project (4-6 units, up to A$9,000 scholarships)*
-- Master of Cyber Security - 1.5-2 years
-  *Includes industry/research project (6 units)*
-  *State-of-the-art facilities including Industry 4.0 Energy TestLab*
-- Master of Information Technology - 2 years
-  *For students with non-IT/CS background*
-- Master of Interaction Design - 2 years
-  *For students without interaction design/multimedia design background*
-
-SUSTAINABLE ENERGY:
-- Master of Sustainable Energy - 1.5 years
-- Master of Sustainable Energy (Management) - 2 years
+  Fields of Study: People and Policy, Infrastructure and Resources, Economics and Strategy
+  Mid-Career Salary (Urban Designer): AUD $67K-$101K
+  Career Options: Urban Designer, Urban Strategist, Design Advisor, Landscape Architect, Community Engagement Consultant
 
 ==========================================
-ADMISSION REQUIREMENTS - KEY POINTS
+Engineering
 ==========================================
 
-MASTER OF ARCHITECTURE:
-- BArchDes with GPA 4.5 (UQ) or equivalent
-- OR GPA 4.0 + 6 months relevant work experience
-- Non-UQ degree: GPA 5.0 in final two design subjects
+Bachelor of Engineering (Hons) specialisations
+- Chemical Engineering (Biomedical, Bioprocess, Environmental, Materials, or Metallurgical Engineering.)
+- Civil Engineering (Environmental, Fire Safety, Geotechnical, General Civil, Mining, Structural, Transport, or Water and Marine Engineering.)
+- Electrical Engineering (Biomedical or Computer Engineering.)
+- Mechanical Engineering (Aerospace, Biomedical, Fire Safety, Materials, or Mining Engineering.)
+- Mechatronic Engineering (Computer or Mining Engineering.)
+- Software Engineering (Computer Engineering)
 
-MASTER OF ENGINEERING PROGRAMS:
-- Engineering degree equivalent to Australian bachelor with GPA ≥5.0/7
+Minors available in: Computing, Design and Data Science.
 
-MASTER OF DATA SCIENCE:
-- 2-year option: Degree in CS, IT, maths, stats, engineering, physics with GPA ≥5.0/7
-- 1.5-year option: Above + minimum 2 maths, 3 stats/probability, 3 CS courses
+Master of Engineering Majors
+- Chemical Engineering (Biomedical, Bioprocess, Environmental, Materials, or Metallurgical Engineering.)
+- Civil Engineering (Environmental Engineering.)
+- Electrical Engineering (Biomedical or Computer Engineering.)
+- Mechanical Engineering (Aerospace or Materials Engineering.)
+- Mechatronic Engineering
+- Software Engineering
 
-MASTER OF CYBER SECURITY:
-- GPA ≥5.0/7
-- 1.5 years (same background) or 2 years (any background)
+Professional Engineering Master Programs
+- Master of Chemical Engineering (Professional)
+- Master of Civil Engineering (Professional)
+- Master of Electrical Engineering (Professional)
+- Master of Software Engineering (Professional)
+- Master of Mechanical Engineering (Professional)
+- Master of Urban Water Engineering (Professional)
+- Master of Materials and Manufacturing Engineering (Professional)
 
-MASTER OF INFORMATION TECHNOLOGY:
-- Bachelor's degree in field OTHER THAN: Interaction Design, Multimedia Design, HCI, UX Design
-- For IT/CS degrees: Only 1 design course completed
-- For Design degrees: Only 1 programming course completed
+• 2 year program to become an accredited engineer with Engineers Australia
+• 450 hours of Engineering Professional Practice (placements and work experience)
+• Includes business and innovation courses to be ready for senior and leadership roles
+• Undertake supervised projects relevant to the relevant engineering field.
+
+Requirement: Degree equivalent to an Australian bachelor degree in Engineering (in the relevant program for which students wish to enrol) with a GPA of at least 5.0 on a 7 point scale.
+
+Master of Engineering Science (+ Management)
+- Master of Engineering Science (Background: Bachelor of Engineering, Duration: 1 year, Career outcome: Technical expertise)
+- Master of Engineering Science (Management) (Background: Bachelor of Engineering, Duration: 2 years, Career outcome: Management and leadership positions)
+
+• Further engineering studies in relevant discipline and develop technical skills in-depth
+• Undertake a supervised research project
+• Option to add a management component and choose business electives
+• 9 Fields of Study available (no urban water for management option)
+
+Degree equivalent to a four-year Australian bachelor honours degree in Engineering (in the relevant field of study) with a GPA of at least 4.5 on a 7 point scale.
 
 ==========================================
-PROFESSIONAL ACCREDITATION
+Computing
 ==========================================
 
-ENGINEERS AUSTRALIA:
-- Full Accreditation: Mechanical, Chemical, Civil, Electrical Engineering
-- Provisional Accreditation: Bioengineering, Materials & Manufacturing, Software, Urban Water
-- Accredited Programs: Bachelor of Engineering (Hons), Bachelor/Master of Engineering, Master of Engineering (Professional) x 8
+Bachelor of Information Technology
+- Duration: 3 years full time
+- Students can choose no major, single major, or two majors
 
-AUSTRALIAN COMPUTER SOCIETY (ACS):
-- Bachelor of IT, Bachelor of Computer Science
-- Bachelor of Engineering (Honours) - Software
-- Master of IT, Master of Data Science
-- Master of Interaction Design
-- Master of Cyber Security (Cyber Defence field)
+Majors:
+1. User Experience Design
+   Combining design, creativity, programming and prototyping, UX designers ensure the design of software, websites, or technologies meet their intended use.
+2. Software Design
+   Learn to create and manage software applications and develop games, apps for mobile devices, and new tools and systems for companies and individuals.
+3. Software Information Systems
+   Learn to develop and manage databases and information systems.
 
-ARCHITECTURE:
-- Master of Architecture accredited by Australian Institute of Architects + Board of Architects of Queensland
+Bachelor of Computer Science
+- Duration: 3 years full time
+- Students can choose no major, single major, or two majors
+
+Majors:
+1. Cyber Security
+   Learn the fundamental processes and practices to protect computing systems from attack, damage or unauthorised access.
+2. Data Science
+   Our world is recording more data than we can process. Learn to transform data into information and meet the challenges associated with data analysis.
+3. Machine Learning
+   Master the algorithms that allow computers to do things like automatically identify and harness data for decision making, find hidden insights and predict outcomes.
+4. Programming Languages
+   Learn how to construct effective programming languages – the building blocks of software.
+5. Scientific Computing
+   Complex scientific problems require sophisticated algorithms. Study algorithms for mathematical analysis and help to solve the scientific problems of the future.
+
+Computer Science Vertical Dual Degrees (4 years duration)
+1. Bachelor of Computer Science/Master of Data Science
+   The Bachelor of Computer Science is designed to provide a deeper understanding of all aspects of computer technology. With a Master of Data Science, you will be expertly placed to solve big data challenges across business, social, government and health data.
+
+2. Bachelor of Computer Science/Master of Cyber Security
+   The Bachelor of Computer Science will teach you how to create and analyse computer-based systems. With a Master of Cyber Security, you'll be able to look at the field from a different angle, ask bigger questions, and find new ways to tackle real and emerging cyber security threats.
+   *The vertical dual degree is only possible with the Cyber Defence or Cryptography fields in the Master of Cyber Security component.
 
 ==========================================
-STUDENT EXPERIENCE & FACILITIES
+Postgraduate Computing Programs
 ==========================================
 
-UQ INNOVATE MAKERSPACE:
-- Digital design spaces, modern technologies
-- 3D printing, waterjet cutter, CNC router
-- Industrial Robot Arm (Kuka Krc4)
-- Various equipment: bandsaws, grinders, drill press, lathe, etc.
-- Access requires induction training
+Master of Data Science
+- Duration: 2 years
+- Most comprehensive data science program in Australia
+- Direct industry contact and practical experience
+- Industry-based or research capstone project (4-6 units, up to A$9,000 competitive scholarships)
+- State-of-the-art facilities, including a big data lab with relevant tools and technologies
+- ACS Accredited program
 
-STUDENT CLUBS & SOCIETIES:
+Admission Requirements:
+- 2 years requirement: Degree in computer science, IT, mathematics, statistics, engineering, physics, Actuarial Studies area with a GPA of at least 5 on a 7 point scale.
+- 1.5 years requirement: In addition to the 2 years option requirement, student must complete minimum 2 mathematics, 3 statistics/probability and 3 computer sciences courses.
+
+Career Information: Data Engineer is No.5 in LinkedIn Jobs on the Rise 2022: The 15 Australian roles that are growing in demand
+
+Master of Cyber Security
+- Duration: 1.5 years (same background as field of study) or 2 years (any background) with a GPA of at least 5.0 on a 7 point scale.
+- Real-world, practical industry experience embedded via industry or research-based project (6 units)
+- State of the art facilities and labs – new Industry 4.0 Energy TestLab
+- Comprehensive student activities include UQ Cyber Squad, security operations centre (SoC) experience and Australia Signals Directorate Cyber Experience
+- ACS Accredited program
+
+Career Information:
+- Cyber Security Specialist is No.9 in LinkedIn Jobs on the Rise 2022: The 15 Australian roles that are growing in demand
+- It's estimated that Australia will need an additional 18,000 cyber security professionals by 2026
+
+Master of Computer Science (+ Management)
+- Master of Computer Science: 1.5 years
+- Master of Computer Science (Management): 2 years
+- Required Background: B. Computer Science or B. Software Engineering
+- Teaching by a mix of internationally renowned lecturers, industry professionals and leading researchers
+- Undertake a research project to address a specific topic or problem
+- Choose from more than 50 advanced computer science courses
+
+Industry Demand: Demand for technology workers will grow by 100,000 jobs between 2018 and 2024 (ACS Australia's Digital Pulse 2019, Deloitte)
+
+Master of Information Technology
+- Duration: 2 years
+- For students without IT/CS background
+
+Admission Requirements:
+- Bachelor degree in a field other than: Interaction Design, Multimedia Design, Information Technology, Computer Science, Software Engineering, Computer Engineering
+- No more than 5 subjects in CS/IT in bachelor degree
+- Articulation possible through Grad Cert (Sem 1 only) or Grad Dip (Sem 2 only)
+
+Master of Interaction Design
+- Duration: 2 years
+- For students without interaction design background
+
+Admission Requirements:
+- Bachelor's degree (or equivalent) in a field other than interaction design, multimedia design, human computer interaction or user experience design.
+- For IT/CS/Software Engineering degrees, only 1 design course can be completed
+- For Design degrees, only 1 programming course can be completed
+
+==========================================
+Sustainable Energy Programs
+==========================================
+
+Master of Sustainable Energy
+- Master of Sustainable Energy: 1.5 years
+- Master of Sustainable Energy (Management): 2 years
+
+Admission Requirements:
+- Bachelor's degree (or equivalent) in a relevant discipline (engineering, science, environmental management, economics, commerce, business, public policy, international development, information technology, energy, law or architecture/design) with a GPA of 4.5 on a 7 point scale.
+
+==========================================
+Professional Accreditation
+==========================================
+
+Engineers Australia
+- Bachelor of Engineering (Hons) - Full Accreditation: Mechanical, Chemical, Civil, Electrical
+- Bachelor of Engineering (Hons) and Master of Engineering (BE/ME) - Full Accreditation
+- Master of Engineering (Professional) x 8 - Full Accreditation
+- Provisional Accreditation: Bioengineering, Materials and Manufacturing, Software, Urban Water
+
+Australian Computer Society (ACS)
+- Bachelor of IT - Accredited
+- Bachelor of Computer Science - Accredited
+- Bachelor of Engineering (Hon) - Software - Accredited
+- Master of IT - Accredited
+- Master of Data Science - Accredited
+- Master of Interaction Design - Accredited
+- Master of Cyber Security (Cyber Defence field of study) - Accredited
+
+Australian Institute of Architects + Board Of Architects of Queensland
+- Master of Architecture - Accredited
+
+==========================================
+Student Experience at EAIT
+==========================================
+
+UQ Innovate Makerspace
+- Facility where students and staff can meet, collaborate and create
+- Digital design spaces and access to modern technologies
+- Available equipment: 3D printing, Waterjet cutter, CNC router, Robot - Industrial Arm Kuka Krc4
+- Wide variety of equipment: bandsaws, grinders, drill press, lathe etc.
+- Access requires completing inductions, including online and physical training sessions
+- Equipment details: https://makerspace.uq.edu.au/facilities
+
+Student Clubs and Societies
+- UQ Racing
+- UQ Space
 - Engineering Undergraduate Society (EUS)
 - UQ Postgraduate Engineering Student Society (PRESS)
 - UQ Skirts in Engineering (UQ SKIRTS)
 - Engineers Without Borders - UQ
-- Robogals UQ
+- Robogals UQ (RGUQ)
 - UQ Student Energy Network (UQ SEN)
-- UQ Artificial Intelligence & Machine Learning Club (UQ AIML)
-- UQ Innovation & Entrepreneurship Society (UQIES)
-- UQ Racing, UQ Space, Drones and RC (UQDRC)
+- UQ Artificial Intelligence and Machine Learning Club (UQ AIML)
+- UQ Innovation and Entrepreneurship Society (UQIES)
+- Drones and RC (UQDRC)
 
 ==========================================
-EMPLOYABILITY & INDUSTRY CONNECTIONS
+EAIT Employability
 ==========================================
 
-EAIT EMPLOYABILITY TEAM SERVICES:
-- Career Kickstarter program
-- One-on-one consultations
-- Internship and graduate employment opportunities
-- Industry networking events and workshops
-- Site tours
-- Work Integrated Learning (WIL) placements
-- Meet a Mentor program
+EAIT Student Employability Team Services:
+1. Assisting students with career readiness
+2. Career Kickstarter program
+3. One on one consultations
+4. Source and promote internship and graduate employment opportunities
+5. UQ Student Hub introductions to employer organisations
+6. Virtual and in person networking events
+7. Industry workshops and presentations
+8. Site Tours
+9. Coordinate and support Work Integrated Learning (WIL) placements in Engineering, Data Science, Cyber Security
+10. Mentoring through Meet a Mentor program
 
-INDUSTRY MENTORING PROGRAM:
-- Connects penultimate and final year students with industry mentors
-- Minimum 4 one-on-one sessions over 6 months
+Website: www.eait.uq.edu.au/employability
 
-MAJOR INDUSTRY PARTNERS:
-- ConocoPhillips, Canva, Boeing, Santos, Exxon Mobil, Google
-- Hatch, AECOM, Siemens, NASA, Deloitte, KPMG
-- Infosys, Oracle, and many more
+EAIT Industry Mentoring Program
+- Connects penultimate students (second last year) and final year students with industry mentors
+- Meet a Mentor program assists with career development and transition from university to workforce
+- Minimum commitment: Four one-on-one mentor sessions (in-person, phone, email or online) over six months
 
-IN-DEMAND CAREERS (LinkedIn Jobs on the Rise 2022):
-- Data Engineer: #5 in Australia
-- Cyber Security Specialist: #9 in Australia
-- Australia needs additional 18,000 cyber security professionals by 2026
+Industry Connections
+Major partners include: ConocoPhillips, Canva, Boeing, Santos, Exxon Mobil, Google, Hatch, AECOM, Siemens, NASA, Deloitte, KPMG, Infosys, Oracle, and many more.
 
 ==========================================
-CONTACT INFORMATION
+Contact Information
 ==========================================
 
-WEBSITE: study.uq.edu.au
-EAIT EMAIL: international@eait.uq.edu.au
-
-SOCIAL MEDIA:
+Connect with UQ:
+- Study website: study.uq.edu.au
+- EAIT Email: international@eait.uq.edu.au
 - Facebook: facebook.com/uniofqld
 - Instagram: instagram.com/uniofqld
 - Twitter: twitter.com/uq_news
